@@ -1,6 +1,5 @@
 import * as React from 'react';
 
-
 type Props = {
   question: string;
   answers: string[];
@@ -9,8 +8,6 @@ type Props = {
   questionNum: number;
   totalQuestions: number;
 }
-
-
 
 const QuestionCard: React.FC<Props> = ({
   question, 
