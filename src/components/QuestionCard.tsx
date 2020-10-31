@@ -1,5 +1,6 @@
 import * as React from 'react';
 
+
 type Props = {
   question: string;
   answers: string[];

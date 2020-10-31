@@ -24,9 +24,9 @@ export const fetchQuestions = async (
       answers: [
         ...question.incorrect, 
         question.correct 
-      ]       
-    } 
-      ))} 
+      ],       
+    }))
+  }  
 
     // {
     //   ...question, 

@@ -35,7 +35,7 @@ const App = () => {
     
     console.log(newQuestions);
 
-      // setQuestions(newQuestions)
+      setQuestions(newQuestions)
       setScore(0)
       setUserAnswers([])
       setNumber(0)
