@@ -2,12 +2,12 @@ import React, {useState} from 'react';
 import './App.css';
 import QuestionCard from './components/QuestionCard'
 import { fetchQuestions } from './API';
+//Types 
 import { QuestionState } from './API';
 
 
-
 type AnswerObject = {
-  question: string; 
+  questions: string; 
   answer: string;
   correct: boolean;
   correctAnswer: string;
@@ -35,7 +35,7 @@ const App = () => {
     
     console.log(newQuestions);
 
-      setQuestions(newQuestions)
+      // setQuestions(newQuestions)
       setScore(0)
       setUserAnswers([])
       setNumber(0)
@@ -67,8 +67,7 @@ const App = () => {
           answers={questions[number].answers}
           userAnswer={userAnswers ? userAnswers[number] : undefined}
           callback={checkAnswer}/>
-        )}
-      
+        )} 
       <button className="next" onClick={nextQuestion}>Next Question</button>
     </div>
   );

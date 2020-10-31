@@ -12,16 +12,27 @@ export type QuestionState = Question & {
 }
 
 
-export const fetchQuestions = async (amount: number ) => {
+export const fetchQuestions = async (
+  amount: number, 
+  ) => {
   const endpoint = `data.json?amount=${amount}`; 
-  const data = await (await fetch(endpoint)).json() 
-  // console.log(data);
+  const data = await (await fetch(endpoint)).json();  
   return data.map((question: Question) => (
-    {
-      ...question, 
-      answers: shuffleArray([
+    
+    { 
+      ...question,
+      answers: [
         ...question.incorrect, 
-        question.correct
-      ])
-    }))    
-} 
+        question.correct 
+      ]       
+    } 
+      ))} 
+
+    // {
+    //   ...question, 
+    //   answers: shuffleArray([
+    //     ...question.incorrect, 
+    //     question.correct 
+    //   ]),
+    // }));    
+
