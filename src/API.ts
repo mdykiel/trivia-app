@@ -21,18 +21,9 @@ export const fetchQuestions = async (
     
     { 
       ...question,
-      answers: [
+        answers: [
         ...question.incorrect, 
         question.correct 
       ],       
     }))
-  }  
-
-    // {
-    //   ...question, 
-    //   answers: shuffleArray([
-    //     ...question.incorrect, 
-    //     question.correct 
-    //   ]),
-    // }));    
-
+  } 
