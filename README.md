@@ -13,6 +13,8 @@ This project is a web app trivia quiz game.
   - TypeScript, React and Styled Components. 
   
   
+  
+  ![](images/filenameScreenshot.png)
 
 
 
