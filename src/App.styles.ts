@@ -23,7 +23,7 @@ export const GlobalStyle = createGlobalStyle `
   }
 `
 
-export const Wrapper = styled.div `
+export const Wrapper = styled.div ` 
   display: flex; 
   flex-direction: column;
   align-items: center
