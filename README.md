@@ -14,7 +14,7 @@ This project is a web app trivia quiz game.
   
   
   
-  ![](/src/images/filenameScreenshot.png)
+  ![](/src/images/Screenshot.png)
 
 
 
