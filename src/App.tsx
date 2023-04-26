@@ -75,12 +75,12 @@ const App = () => {
     <>
     <GlobalStyle/>
       <div className="App">
-        <h1>Quiz</h1>
+        <h1>Afuek Quiz</h1>
           {gameOver|| userAnswers.length === TOTAL_QUESTIONS ? ( 
             <button className="start" onClick={startTrivia}>Start</button>
             ) : null}
-          {!gameOver ? <p className="score">Score:{score}</p> : null}
-          {loading && <p>Loading Questions...</p>}
+          {!gameOver ? <p className="score">Punktacja:{score}</p> : null}
+          {loading && <p>Pobieranie pytań...</p>}
           {!loading && !gameOver && (
             <QuestionCard
               questionNum={number + 1}
@@ -94,7 +94,7 @@ const App = () => {
             {!gameOver && !loading && 
               userAnswers.length === number + 1 
               && number !== TOTAL_QUESTIONS - 1 ? (
-              <button className="next" onClick={nextQuestion}>Next Question</button>
+              <button className="next" onClick={nextQuestion}>Następne pytanie</button>
             ) : null}
       </div>
     </>
