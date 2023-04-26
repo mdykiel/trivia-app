@@ -75,7 +75,7 @@ const App = () => {
     <>
     <GlobalStyle/>
       <div className="App">
-        <h1>Afuek Quiz </br> Konstytucja</h1>
+        <h1>Afuek Quiz - Konstytucja</h1>
           {gameOver|| userAnswers.length === TOTAL_QUESTIONS ? ( 
             <button className="start" onClick={startTrivia}>Start</button>
             ) : null}
