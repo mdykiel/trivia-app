@@ -19,7 +19,7 @@ export const GlobalStyle = createGlobalStyle `
 
   * {
     box-sizing: border-box;
-    font-family: 'Indie Flower'
+    font-family: Arial, 'Indie Flower'
   }
 `
 
@@ -39,7 +39,7 @@ export const Wrapper = styled.div `
   }
 
   h1 {
-    font-family: Fascinate Inline, 'Arial Narrow Bold', sans-serif;
+    font-family: Arial, 'Arial Narrow Bold', sans-serif;
     background-image: linear-gradient(180deg, #fff, #87f1ff);
     background-size: 100%;
     background-clip: text;
