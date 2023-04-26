@@ -15,7 +15,7 @@ export type AnswerObject = {
 }
 
 
-const TOTAL_QUESTIONS = 10 
+const TOTAL_QUESTIONS = 25
 
 const App = () => {
 
