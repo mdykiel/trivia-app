@@ -27,7 +27,7 @@ export const ButtonWrapper = styled.div<ButtonWrapperProps>`
     button {
         cursor: pointer;
         user-select: none;
-        font-size: 1.0 rem;
+        font-size: 1.5 rem;
         width: 100%;
         height: 40px;
         margin: 5px 0;
@@ -40,7 +40,7 @@ export const ButtonWrapper = styled.div<ButtonWrapperProps>`
         border: 3px solid #fff;
         box-shadow: 1px 2px 0px rgba(0, 0, 0, 0.1);
         border-radius: 10px;
-        color: #fff;
+        color: #000000;
         text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25);
     }
 `
