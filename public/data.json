@@ -2,226 +2,201 @@
   {
     "question": "Źródłami powszechnie obowiązującego prawa Rzeczpospolitej Polskiej są",
     "incorrect": [
-      "b) Konstytucja RP, ratyfikowane umowy międzynarodowe oraz rozporządzenia",
-      "c) Konstytucja RP, ustawy, umowy międzynarodowe oraz rozporządzenia",
-      "0"
+      "Konstytucja RP, ratyfikowane umowy międzynarodowe oraz rozporządzenia",
+      "Konstytucja RP, ustawy, umowy międzynarodowe oraz rozporządzenia"
     ],
-    "correct": "a) Konstytucja RP, ustawy, ratyfikowane umowy międzynarodowe oraz rozporządzenia art. 87 ust 1 Konstytucji"
+    "correct": "Konstytucja RP, ustawy, ratyfikowane umowy międzynarodowe oraz rozporządzenia art. 87 ust 1 Konstytucji"
   },
   {
-    "question": " Akty prawa miejscowego:",
+    "question": "Akty prawa miejscowego:",
     "incorrect": [
-      "b) są źródłami powszechnie obowiązującego prawa Rzeczpospolitej Polskiej, ",
-      "c) nie są źródłami powszechnie obowiązującego prawa Rzeczpospolitej Polskiej,",
-      "0"
+      "są źródłami powszechnie obowiązującego prawa Rzeczpospolitej Polskiej, ",
+      "nie są źródłami powszechnie obowiązującego prawa Rzeczpospolitej Polskiej,"
     ],
-    "correct": "a) są źródłami powszechnie obowiązującego prawa Rzeczpospolitej Polskiej, ale tylko na obszarze działania organów, które je ustanowiły art. 87 ust 2 Konstytucji"
+    "correct": " są źródłami powszechnie obowiązującego prawa Rzeczpospolitej Polskiej, ale tylko na obszarze działania organów, które je ustanowiły art. 87 ust 2 Konstytucji"
   },
   {
     "question": "Warunkiem wejścia w życie ustaw, rozporządzeń oraz aktów prawa miejscowego jest:",
     "incorrect": [
-      "c) prawidłowy tryb uchwalenia",
-      "a) przejście całego procesu legislacyjnego",
-      "0"
+      "prawidłowy tryb uchwalenia",
+      "przejście całego procesu legislacyjnego"
     ],
-    "correct": "b) ich ogłoszenie art. 88 ust 1 Konstytucji"
+    "correct": "ich ogłoszenie art. 88 ust 1 Konstytucji"
   },
   {
     "question": "Zasady i tryb ogłaszania aktów normatywnych określone są w ",
     "incorrect": [
-      "a) stosownych aktach wykonawczych",
-      "c) Konstytucji RP",
-      "0"
+      "stosownych aktach wykonawczych",
+      "Konstytucji RP"
     ],
-    "correct": "b) ustawie art. 88 ust 2 Konstytucji"
+    "correct": " ustawie art. 88 ust 2 Konstytucji"
   },
   {
     "question": "Umowy międzynarodowe ratyfikowane za uprzednią zgodą wyrażoną w ustawie są ogłaszane w trybie",
     "incorrect": [
-      "b) pilnym",
-      "c) zwykłym",
-      "0"
+      "pilnym",
+      "zwykłym"
     ],
-    "correct": "a) wymaganym dla ustaw art. 88 ust 3 Konstytucji"
+    "correct": " wymaganym dla ustaw art. 88 ust 3 Konstytucji"
   },
   {
     "question": "Zasady ogłaszania innych umów międzynarodowych ",
     "incorrect": [
-      "b) są takie same jak dla ustaw",
-      "c) są zawarte w tych umowach",
-      "0"
+      "są takie same jak dla ustaw",
+      "są zawarte w tych umowach"
     ],
-    "correct": "a) określa ustawa art. 88 ust 3 Konstytucji"
+    "correct": " określa ustawa art. 88 ust 3 Konstytucji"
   },
   {
     "question": "Ratyfikacja przez Rzeczpospolitą Polską umowy międzynarodowej i jej wypowiedzenie wymaga uprzedniej zgody wyrażonej w ustawie:",
     "incorrect": [
-      "b) zawsze",
-      "c)jeśli umowa dotyczy pokoju, sojuszy, układów politycznych lub układów wojskowych",
-      "0"
+      "zawsze",
+      "jeśli umowa dotyczy pokoju, sojuszy, układów politycznych lub układów wojskowych"
     ],
-    "correct": "a) jeśli umowa dotyczy kwestii wymienionych enumeratywnie w Konstytucji RP art. 89 ust 1 Konstytucji"
+    "correct": "jeśli umowa dotyczy kwestii wymienionych enumeratywnie w Konstytucji RP art. 89 ust 1 Konstytucji"
   },
   {
     "question": "Jeżeli umowa międzynarodowa dotyczy znacznego obciążenia państwa pod względem finansowym, jej ratyfikacja :",
     "incorrect": [
-      "b) wymaga następczej zgody wyrażonej w ustawie",
-      "a) nie wymaga zgody wyrażonej w ustawie",
-      "0"
+      "wymaga następczej zgody wyrażonej w ustawie",
+      "nie wymaga zgody wyrażonej w ustawie"
     ],
-    "correct": "c) wymaga uprzedniej zgody wyrażonej w ustawie art. 89 ust 1 pkt. 4 Konstytucji"
+    "correct": "wymaga uprzedniej zgody wyrażonej w ustawie art. 89 ust 1 pkt. 4 Konstytucji"
   },
   {
     "question": "Jeżeli umowa międzynarodowa dotyczy spraw uregulowanych w ustawie lub w których Konstytucja RP wymaga ustawy, jej ratyfikacja:",
     "incorrect": [
-      "b) nie wymaga zgody wyrażonej w ustawie",
-      "c) wymaga następczej zgody wyrażonej w ustawie",
-      "0"
+      "nie wymaga zgody wyrażonej w ustawie",
+      "wymaga następczej zgody wyrażonej w ustawie"
     ],
-    "correct": "a)wymaga uprzedniej zgody wyrażonej w ustawie "
+    "correct": "wymaga uprzedniej zgody wyrażonej w ustawie "
   },
   {
     "question": "O zamiarze przedłożenia Prezydentowi Rzeczpospolitej Polskiej do ratyfikacji umów międzynarodowych, których ratyfikacja nie wymaga  zgody wyrażonej w ustawie, Sejm zawiadamiany jest przez:",
     "incorrect": [
-      "a) Minister Spraw Zagranicznych",
-      "b)Radę Ministrów",
-      "0"
+      "Minister Spraw Zagranicznych",
+      "Radę Ministrów"
     ],
-    "correct": "c)Prezesa Rady Ministrów art. 89 ust 2 Konstytucji"
+    "correct": "Prezesa Rady Ministrów art. 89 ust 2 Konstytucji"
   },
   {
     "question": "Zasady oraz tryb zawierania, ratyfikowania i wypowiadania umów międzynarodowych określa (ją):",
     "incorrect": [
-      "a) normy prawa międzynarodowego",
-      "b)Konstytucja RP",
-      "0"
+      "normy prawa międzynarodowego",
+      "Konstytucja RP"
     ],
-    "correct": "c)ustawanie  art. 89 ust 03 Konstytucji"
+    "correct": "ustawanie  art. 89 ust 03 Konstytucji"
   },
   {
     "question": "Rzeczpospolita Polska może przekazać organizacji międzynarodowej lub organowi międzynarodowemu kompetencje organów władzy państwowej w niektórych sprawach:",
     "incorrect": [
-      "a)na podstawie ustawy, uchwalonej przez Sejm bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów oraz przez Senat większością ¾ głosów w obecności co najmniej połowy ustawowej liczby senatorów",
-      "b)na podstawie umowy międzynarodowej, ustawa wyrażająca  zgodę na ratyfikację takiej umowy jest uchwalana przez Sejm bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów oraz przez Senat większością 2/3 głosów w obecności co najmniej połowy ustawowej liczby senatorów",
-      "0"
+      "na podstawie ustawy, uchwalonej przez Sejm bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów oraz przez Senat większością ¾ głosów w obecności co najmniej połowy ustawowej liczby senatorów",
+      "na podstawie umowy międzynarodowej, ustawa wyrażająca  zgodę na ratyfikację takiej umowy jest uchwalana przez Sejm bezwzględną większością głosów w obecności co najmniej połowy ustawowej liczby posłów oraz przez Senat większością 2/3 głosów w obecności co najmniej połowy ustawowej liczby senatorów"
     ],
-    "correct": "c) na podstawie umowy międzynarodowej; ustawa wyrażająca zgodę na ratyfikację takiej umowy jest uchwalana przez Sejm większością 2/3 głosów w obecności co najmniej połowy ustawowej liczby posłów oraz przez Senat większością 2/3 głosów w obecności co najmniej połowy ustawowej liczby senatorów art. 90 ust 1 Konstytucji, art. 90 ust 2 Konstytucji"
+    "correct": " na podstawie umowy międzynarodowej; ustawa wyrażająca zgodę na ratyfikację takiej umowy jest uchwalana przez Sejm większością 2/3 głosów w obecności co najmniej połowy ustawowej liczby posłów oraz przez Senat większością 2/3 głosów w obecności co najmniej połowy ustawowej liczby senatorów art. 90 ust 1 Konstytucji, art. 90 ust 2 Konstytucji"
   },
   {
     "question": "Wyrażenie zgody na umowę, na podstawie której Rzeczpospolita Polska może przekazać organizacji międzynarodowej lub organowi międzynarodowemu kompetencje organów władzy państwowej w  niektórych sprawach, poza trybem z art. 90 ust. 2 Konstytucji RP.",
     "incorrect": [
-      "a) powinno być uchwalone  w referendum ogólnokrajowym",
-      "c) musi  być uchwalone w referendum ogólnokrajowym",
-      "0"
+      "powinno być uchwalone  w referendum ogólnokrajowym",
+      "musi  być uchwalone w referendum ogólnokrajowym"
     ],
-    "correct": "b) może być uchwalone w referendum ogólnokrajowym art. 90 ust 1 Konstytucji, art. 90 ust 3 Konstytucji"
+    "correct": "może być uchwalone w referendum ogólnokrajowym art. 90 ust 1 Konstytucji, art. 90 ust 3 Konstytucji"
   },
   {
     "question": "Uchwałę w sprawie wyboru trybu wyrażenia zgody na ratyfikację umowy, na podstawie której Rzeczpospolita Polska może przekazać organizacji międzynarodowej lub organowi międzynarodowemu kompetencje organów władzy państwowej w niektórych sprawach, podejmuje:",
     "incorrect": [
-      "b)Sejm i Senat bezwzględną większością głosów",
-      "c) Sejm i Senat  bezwzględną większością głosów  w obecności co najmniej połowy ustawowej liczby posłów i senatorów.",
-      "0"
+      "Sejm i Senat bezwzględną większością głosów",
+      "Sejm i Senat  bezwzględną większością głosów  w obecności co najmniej połowy ustawowej liczby posłów i senatorów."
     ],
-    "correct": "a) Sejm bezwzględną większością  głosów w obecności co najmniej połowy ustawowej liczby posłów art. 90 ust 4 Konstytucji"
+    "correct": "Sejm bezwzględną większością  głosów w obecności co najmniej połowy ustawowej liczby posłów art. 90 ust 4 Konstytucji"
   },
   {
-    "question": " Ratyfikowana umowa międzynarodowa, po jej ogłoszeniu w Dzienniku Ustaw Rzeczpospolitej Polskiej",
+    "question": "Ratyfikowana umowa międzynarodowa, po jej ogłoszeniu w Dzienniku Ustaw Rzeczpospolitej Polskiej",
     "incorrect": [
-      "a) jest stosowana bezpośrednio",
-      "c) może być stosowana tylko w sposób określony w ustawie",
-      "0"
+      "jest stosowana bezpośrednio",
+      "może być stosowana tylko w sposób określony w ustawie"
     ],
-    "correct": "b) stanowi część krajowego porządku prawnego i jest bezpośrednio stosowana, chyba że jej stosowanie jest uzależnione od wydania ustawy art. 91 ust 1 Konstytucji"
+    "correct": "stanowi część krajowego porządku prawnego i jest bezpośrednio stosowana, chyba że jej stosowanie jest uzależnione od wydania ustawy art. 91 ust 1 Konstytucji"
   },
   {
     "question": "Jeżeli nie da się pogodzić  treści ustawy z  umową międzynarodową ratyfikowaną za uprzednią zgodą  określoną w ustawie, pierwszeństwo ma :",
     "incorrect": [
-      "b) akt prawny, który wskazano jako mający pierwszeństwo w aktach wykonawczych do umowy lub ustawy",
-      "c) ustawa",
-      "0"
+      "akt prawny, który wskazano jako mający pierwszeństwo w aktach wykonawczych do umowy lub ustawy",
+      "ustawa"
     ],
-    "correct": "a) umowa art. 91 ust 2 Konstytucji"
+    "correct": "umowa art. 91 ust 2 Konstytucji"
   },
   {
     "question": "W przypadku kolizji z ustawami prawo stosowane przez umowę konstytuującą organizację międzynarodową ",
     "incorrect": [
-      "a) nie może być stosowane",
-      "b) nie może być stosowane bezpośrednio",
-      "0"
+      "nie może być stosowane",
+      "nie może być stosowane bezpośrednio"
     ],
-    "correct": "c) jest stosowane bezpośrednio, z pierwszeństwem w przypadku kolizji z ustawami art. 91 ust 3 Konstytucji"
+    "correct": "jest stosowane bezpośrednio, z pierwszeństwem w przypadku kolizji z ustawami art. 91 ust 3 Konstytucji"
   },
   {
     "question": "Rozporządzenia są wydawane :",
     "incorrect": [
-      "a) przez organy konstytucyjne na podstawie szczegółowego  upoważnienia zawartego w ustawie, w celu realizacji celów polityki rządu",
-      "c) przez stosowne organy, na podstawie upoważnienia  ustawowego, w celu określonym w ustawie",
-      "0"
+      "przez organy konstytucyjne na podstawie szczegółowego  upoważnienia zawartego w ustawie, w celu realizacji celów polityki rządu",
+      "przez stosowne organy, na podstawie upoważnienia  ustawowego, w celu określonym w ustawie"
     ],
-    "correct": "b) przez organy wskazane w Konstytucji RP, na podstawie szczegółowego upoważnienia zawartego w ustawie i w celu jej wykonania art. 92 ust 1 Konstytucji"
+    "correct": "przez organy wskazane w Konstytucji RP, na podstawie szczegółowego upoważnienia zawartego w ustawie i w celu jej wykonania art. 92 ust 1 Konstytucji"
   },
   {
     "question": "Upoważnienie do wydania rozporządzenia  powinno określać:",
     "incorrect": [
-      "b) organ właściwy do wydania rozporządzenia oraz organy, które mają je konsultować",
-      "c) termin wydania rozporządzenia oraz organy, które wydadzą rozporządzenie",
-      "0"
+      "organ właściwy do wydania rozporządzenia oraz organy, które mają je konsultować",
+      "termin wydania rozporządzenia oraz organy, które wydadzą rozporządzenie"
     ],
-    "correct": "a) organ właściwy do wydania rozporządzenia  i zakres spraw przekazanych do uregulowania  oraz wytyczne dotyczące treści aktu art. 92 ust 1 Konstytucji"
+    "correct": " organ właściwy do wydania rozporządzenia  i zakres spraw przekazanych do uregulowania  oraz wytyczne dotyczące treści aktu art. 92 ust 1 Konstytucji"
   },
   {
     "question": "Przekazanie kompetencji do wydania rozporządzenia przez upoważniony organ innemu organowi:",
     "incorrect": [
-      "a) może nastąpić tylko w formie określonej ustawą, z ważnych przyczyn",
-      "c) może nastąpić tylko w formie ustawy",
-      "0"
+      "może nastąpić tylko w formie określonej ustawą, z ważnych przyczyn",
+      "może nastąpić tylko w formie ustawy"
     ],
-    "correct": "b) jest niemożliwe art. 92 ust 2 Konstytucji"
+    "correct": "jest niemożliwe art. 92 ust 2 Konstytucji"
   },
   {
     "question": "Uchwały Rady Ministrów oraz zarządzenia Prezesa Rady Ministrów i ministrów mają charakter:",
     "incorrect": [
-      "a)  wewnętrzny, lecz mają charakter powszechnie obowiązujący",
-      "b) zewnętrzny i powszechnie obowiązujący",
-      "0"
+      "wewnętrzny, lecz mają charakter powszechnie obowiązujący",
+      "zewnętrzny i powszechnie obowiązujący"
     ],
-    "correct": "c) wewnętrzny i obowiązują tylko jednostki organizacyjnie podległe organowi wydającemu te akty art. 93 ust 1 Konstytucji"
+    "correct": "wewnętrzny i obowiązują tylko jednostki organizacyjnie podległe organowi wydającemu te akty art. 93 ust 1 Konstytucji"
   },
   {
     "question": "Zarządzenia są wydawane:",
     "incorrect": [
-      "a) na podstawie ustaw, rozporządzeń oraz aktów prawa miejscowego w zakresie określonym w tych aktach",
-      "b) tylko na podstawie ustaw i prawidłowo zawartych umów międzynarodowych",
-      "0"
+      "na podstawie ustaw, rozporządzeń oraz aktów prawa miejscowego w zakresie określonym w tych aktach",
+      "tylko na podstawie ustaw i prawidłowo zawartych umów międzynarodowych"
     ],
-    "correct": "c) tylko na podstawie ustawy art. 93 ust 2 Konstytucji"
+    "correct": "tylko na podstawie ustawy art. 93 ust 2 Konstytucji"
   },
   {
     "question": "Zarządzenia:",
     "incorrect": [
-      "a) nie mogą stanowić podstawy prawnej wobec  obywateli, ale mogą stanowić taką podstawę wobec osób prawnych",
-      "b) mogą stanowić podstawę prawną decyzji wobec obywateli, osób prawnych oraz innych podmiotów",
-      "0"
+      "nie mogą stanowić podstawy prawnej wobec  obywateli, ale mogą stanowić taką podstawę wobec osób prawnych",
+      "mogą stanowić podstawę prawną decyzji wobec obywateli, osób prawnych oraz innych podmiotów"
     ],
-    "correct": "c) nie mogą stanowić podstawy decyzji wobec obywateli, osób prawnych oraz innych podmiotów art. 93 ust 2 Konstytucji"
+    "correct": "nie mogą stanowić podstawy decyzji wobec obywateli, osób prawnych oraz innych podmiotów art. 93 ust 2 Konstytucji"
   },
   {
     "question": "Uchwały i zarządzenia podlegają kontroli co do ich zgodności z :",
     "incorrect": [
-      "b) ustawami",
-      "c) ustawami oraz aktami wykonawczymi",
-      "0"
+      "ustawami",
+      "ustawami oraz aktami wykonawczymi"
     ],
-    "correct": "a) powszechnie obowiązującym prawem art. 93 ust 3 Konstytucji"
+    "correct": "powszechnie obowiązującym prawem art. 93 ust 3 Konstytucji"
   },
   {
-    "question": ". Organy samorządu terytorialnego oraz terenowe organy administracji rządowej ustanawiają akty prawa miejscowego obowiązujące na obszarze działania tych organów na podstawie  i w granicach upoważnień zawartych w :",
+    "question": "Organy samorządu terytorialnego oraz terenowe organy administracji rządowej ustanawiają akty prawa miejscowego obowiązujące na obszarze działania tych organów na podstawie  i w granicach upoważnień zawartych w:",
     "incorrect": [
-      "a) ustawach oraz aktach wykonawczych",
-      "b) powszechnie obowiązującym prawie",
-      "0"
+      "ustawach oraz aktach wykonawczych",
+      "powszechnie obowiązującym prawie"
     ],
-    "correct": "c) ustawie art. 94 Konstytucji"
+    "correct": "ustawie art. 94 Konstytucji"
   }
 ]
